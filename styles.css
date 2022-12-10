@@ -1,0 +1,43 @@
+header{
+    color: "black";
+    text-align: "center";
+    font-family: "Arial";
+    background-color: "#680C07";
+    
+}
+
+body{
+    text-align: "center";
+    font-family: "Arial";
+    font-size: 20px;
+    color: "black";
+}
+table{
+    table-layout: "auto";
+    border-style: "dashed";
+}
+table, th, td {
+    border: 1px solid black;
+    border-collapse: collapse;
+}
+  th, td {
+    padding: 15px;
+}
+
+h2{
+    font-size: 14px;
+}
+nav{
+    font-size: 17px;
+    color: "black";
+}
+h4{
+    font-size: 15px;
+}
+h5{
+    font-size: 23px;
+   
+}
+h2{
+    font-size: 18px;
+}
